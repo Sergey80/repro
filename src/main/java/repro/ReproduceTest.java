@@ -8,7 +8,7 @@ public class ReproduceTest {
 
     public static void main(String[] args) {
 
-        String xmlString = "<ClientResponseData><responseCode>0</responseCode><number>123</number>";
+        String xmlString = "<ClientResponseData><responseCode>0</responseCode><number>123</number></ClientResponseData>";
 
         try {
 
